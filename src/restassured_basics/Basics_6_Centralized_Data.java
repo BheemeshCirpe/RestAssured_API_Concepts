@@ -23,7 +23,6 @@ public class Basics_6_Centralized_Data {
 
 		// prop.get("HOST");
 	}
-
 	@Test
 	public void JiraAPICreateIssue() {
 		// Creating Issue/Defect
@@ -42,4 +41,5 @@ public class Basics_6_Centralized_Data {
 		System.out.println(id);
 
 	}
+
 }
